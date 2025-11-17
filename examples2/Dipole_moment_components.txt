@@ -1,0 +1,4 @@
+Dipole moment components: 
+ X = 0.1517 
+ Y = 2.2185 
+ Z = -0.8422
